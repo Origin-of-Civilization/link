@@ -16,7 +16,7 @@ const links = [
     { title: 'Dapp_BnBChain', url: 'https://example.com/link3' },
     { title: 'Dapp_Gnosis Chain', url: 'https://example.com/link3' },
     { title: 'Dapp_Polkadot', url: 'https://example.com/link3' },
-    { title: 'Dapp_Kusuma', url: 'https://example.com/link3' },
+    { title: 'Dapp_Kusama', url: 'https://example.com/link3' },
     { title: 'Dapp_GearNetwork', url: 'https://example.com/link3' },
 
     { title: 'WhitePaper_zh', url: 'https://googlecloud.com'},
