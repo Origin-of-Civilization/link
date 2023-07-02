@@ -2,6 +2,8 @@
 const links = [
     { title: 'Hackathon 2023', url: 'https://www.polkadotglobalseries.com/' },
     { title: 'Debox', url: 'https://m.debox.space/group?id=l3izdg3r&code=xfinqn37' },
+    { title: 'Media Reports', url: 'https://civi.ink' },
+
     // { title: 'Wechat', url: 'https://example.com/link3' },
     // { title: 'Discord', url: 'https://example.com/link3' },
     { title: 'Telegram - EN', url: 'https://t.me/Origin_of_Civilization' },
@@ -9,7 +11,7 @@ const links = [
 
     { title: 'Twitter', url: 'https://www.youtube.com/@OriginofCivilization/featured' },
     { title: 'Youtube', url: 'https://www.youtube.com/@OriginofCivilization/featured' },
-    { title: 'Instagram', url: 'https://example.com/link3' },
+    // { title: 'Instagram', url: 'https://example.com/link3' },
     { title: 'Home', url: 'https://civi.inl' },
     { title: 'Dapp_MoonBeam', url: 'https://app.civi.ink' },
     { title: 'Dapp_Ethereum', url: 'https://eth.civi.ink' },
