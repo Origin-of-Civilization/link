@@ -9,7 +9,7 @@ const links = [
     { title: 'Telegram - EN', url: 'https://t.me/Origin_of_Civilization' },
     { title: 'Telegram - ZH', url: 'https://t.me/Origin_of_Civilization_ZH' },
 
-    { title: 'Twitter', url: 'https://www.youtube.com/@OriginofCivilization/featured' },
+    { title: 'Twitter', url: 'https://twitter.com/Origin_Of_Civil' },
     { title: 'Youtube', url: 'https://www.youtube.com/@OriginofCivilization/featured' },
     // { title: 'Instagram', url: 'https://example.com/link3' },
     { title: 'Home', url: 'https://civi.inl' },
