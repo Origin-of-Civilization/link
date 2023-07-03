@@ -12,7 +12,7 @@ const links = [
     { title: 'Twitter', url: 'https://twitter.com/Origin_Of_Civil' },
     { title: 'Youtube', url: 'https://www.youtube.com/@OriginofCivilization/featured' },
     // { title: 'Instagram', url: 'https://example.com/link3' },
-    { title: 'Home', url: 'https://civi.inl' },
+    { title: 'Home', url: 'https://civi.ink' },
     { title: 'Dapp_MoonBeam', url: 'https://app.civi.ink' },
     { title: 'Dapp_Ethereum', url: 'https://eth.civi.ink' },
     { title: 'Dapp_BnBChain', url: 'https://bsc.civi.ink' },
